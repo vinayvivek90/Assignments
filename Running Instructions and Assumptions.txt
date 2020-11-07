@@ -1,0 +1,15 @@
+Assumptions
+
+1. Matches will have 5 overs each side.
+2. In case of runout , the batsmen onstrike gets out.
+3. The probability of legal, wide and no ball are equal
+4. Runs can be scored of no ball so you might see runs scored while balls faced is 0.
+5. On wide and no balls , the probability of wicket and scoring runs is equal.
+6. No super over.
+
+
+Running Instructions
+1.Open the terminal on linux or command prompt in case of windows.
+2.Navigate to the folder with the .py file with the help of cd (change directory) command.
+3.Type : python filename and press enter
+	ex: python cricket_match.py (press enter)
